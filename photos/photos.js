@@ -101,7 +101,8 @@ function loadAlbum(albumid, firstimage, ihash) {
                 $("#thumb-cont").css("left", 0);
 
             }
-        });
+        })
+        .error(function (e) { console.log('error', e); });
     }
 }
 
