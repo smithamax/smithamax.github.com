@@ -6,7 +6,7 @@ var flickrapikey = 'a0b5ea78ea70732fdc70fed68511159a';
 var albumSet = {
     favs: "72157626659463147",
     macro: "72157623777879031",
-    portraits: ""
+    portraits: "72157629380719155"
 };
 var setList = {};
 var fullsizeImage = {};
